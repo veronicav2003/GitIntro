@@ -1,4 +1,4 @@
-#Requirments
+# Requirments
 * Command line that support unix style commands(Idk windows :( )
 * git > 2
 * [github](https://github.com) account
